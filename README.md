@@ -1,5 +1,6 @@
 # Sales_insights_using_python
 ### Liabraries Used: - (pandas,Matplotlib,seaborn)
+
 **1. Data cleaning: -** Handling missing and null values using pandas.
 **2. Data analysis: -** Gain some insights and answer some question for business growth
 **3. Data visualisation: -** Draw bar chart and line chart 
